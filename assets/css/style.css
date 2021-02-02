@@ -56,3 +56,20 @@ h2{
 }
 
 
+.parent{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.child6{
+    
+}
+.another_parent{
+   background-color: black;
+   color:white;
+    display: block;
+    padding-left: 60px;
+}
+
+
