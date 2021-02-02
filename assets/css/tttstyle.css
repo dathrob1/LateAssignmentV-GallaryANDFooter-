@@ -1,0 +1,29 @@
+table{
+    width:50%;
+    border-collapse: collapse;
+    border: solid;
+    margin-left: 25%;
+    margin-right:25%
+}
+td{
+    width: 33.3%;
+    border:6px solid black;
+}
+ td:after{
+    content:"";
+    display:block;
+    margin-top:100%;
+}
+
+#bottom{
+    border-bottom-color: transparent;
+} 
+#top{
+    border-top-color: transparent;
+}
+.left{
+    border-left-color: transparent;
+}
+.right{
+    border-right-color: transparent;
+}
