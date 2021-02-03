@@ -57,19 +57,52 @@ h2{
 
 
 .parent{
+    padding-top: 20px;
     background-color: black;
     color: white;
     display: flex;
     justify-content: space-evenly;
 }
-.child6{
-    
+.child4{
+    border-style:dotted;
+    border-top: black;
+    border-bottom:black;
+    border-left: black;
+    padding-right:40px;
+
+}
+.child5{
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+.social_items{
+    padding-top: 10px;
+    padding-left: 20px;
 }
 .another_parent{
    background-color: black;
    color:white;
     display: block;
     padding-left: 60px;
+}
+.another_parent1{
+    background-color: black;
+    color:white;
+     display: block;
+     padding-left: 60px;
+     padding-bottom: 30px;
+ }
+.search_bar{
+    padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 12px;
+}
+.long_text{
+    width: 150px;
+    padding-top: 20px
 }
 
 
