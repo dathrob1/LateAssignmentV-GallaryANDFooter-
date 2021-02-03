@@ -4,6 +4,12 @@
       background-color: lightgreen;
     }
   }
+  @media(max-width: 600px){
+      body,footer,header{
+          display: flex;
+          flex-direction: column;
+      }
+  }
 
  body{
     background-color:whitesmoke;
