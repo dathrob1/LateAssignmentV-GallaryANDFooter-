@@ -20,5 +20,15 @@
    background-color: #fff;
    clip-path:  polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%,100% 25%, 50% 0%);
 }
+.comb1{
+    display:flex;
+    justify-content: center;
 
+}
+.comb2{
+    display:flex;
+   
+}
+  
+  
  
